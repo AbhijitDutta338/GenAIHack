@@ -241,34 +241,298 @@
   ],
   "startupsToWatch": [
     {
+      "id": "startup_001",
       "name": "FinTechX",
-      "description": "Series A • FinTech • India",
-      "match": "96"
+      "tagline": "AI-powered credit scoring for emerging markets",
+      "description": "FinTechX is revolutionizing credit access in emerging markets by leveraging alternative data and machine learning to provide instant credit scoring for the underbanked population.",
+      "stage": "Series A",
+      "industry": "FinTech",
+      "location": "Mumbai, India",
+      "founded": "2022",
+      "teamSize": 28,
+      "match": "96",
+      "founders": [
+        {
+          "name": "Priya Sharma",
+          "role": "CEO & Co-founder",
+          "background": "Ex-Goldman Sachs, IIT Delhi",
+          "linkedin": "linkedin.com/in/priyasharma"
+        },
+        {
+          "name": "Rahul Mehta",
+          "role": "CTO & Co-founder",
+          "background": "Ex-Google, Stanford CS",
+          "linkedin": "linkedin.com/in/rahulmehta"
+        }
+      ],
+      "metrics": {
+        "mrr": "$125K",
+        "growth": "+35% MoM",
+        "customers": "12,500+",
+        "burn": "$80K/month"
+      },
+      "funding": {
+        "seeking": "$5M",
+        "raised": "$1.2M",
+        "valuation": "$15M pre-money"
+      },
+      "highlights": [
+        "Partnership with 3 major banks",
+        "98% accuracy in credit predictions",
+        "Featured in TechCrunch",
+        "40% customer acquisition cost reduction"
+      ],
+      "pitch": "We're solving the $5T credit gap in emerging markets by making credit accessible to 1.7B underbanked individuals through AI-powered alternative credit scoring.",
+      "documents": {
+        "pitch_deck": "Available",
+        "financials": "Available",
+        "term_sheet": "Ready"
+      }
     },
     {
+      "id": "startup_002",
       "name": "HealthAI",
-      "description": "Seed • Health Tech • USA",
-      "match": "94"
+      "tagline": "Early cancer detection through AI imaging",
+      "description": "HealthAI uses proprietary AI algorithms to detect early-stage cancer from medical imaging with 95% accuracy, enabling earlier intervention and better patient outcomes.",
+      "stage": "Seed",
+      "industry": "HealthTech",
+      "location": "San Francisco, USA",
+      "founded": "2023",
+      "teamSize": 15,
+      "match": "94",
+      "founders": [
+        {
+          "name": "Dr. Sarah Chen",
+          "role": "CEO & Co-founder",
+          "background": "MD from Johns Hopkins, Ex-Mayo Clinic",
+          "linkedin": "linkedin.com/in/sarahchen"
+        },
+        {
+          "name": "Alex Rodriguez",
+          "role": "CTO & Co-founder",
+          "background": "PhD AI/ML from MIT, Ex-DeepMind",
+          "linkedin": "linkedin.com/in/alexrodriguez"
+        }
+      ],
+      "metrics": {
+        "mrr": "$85K",
+        "growth": "+50% MoM",
+        "customers": "25 hospitals",
+        "burn": "$120K/month"
+      },
+      "funding": {
+        "seeking": "$3M",
+        "raised": "$800K",
+        "valuation": "$10M pre-money"
+      },
+      "highlights": [
+        "FDA clearance in progress",
+        "95% accuracy rate in trials",
+        "Partnership with Stanford Medical",
+        "25 hospitals in pilot program"
+      ],
+      "pitch": "We're saving lives by detecting cancer 2 years earlier than traditional methods, giving patients a 90% survival rate improvement.",
+      "documents": {
+        "pitch_deck": "Available",
+        "financials": "Available",
+        "term_sheet": "Draft"
+      }
     },
     {
-      "name": "AgriTech",
-      "description": "Series B • AgTech • Brazil",
-      "match": "89"
+      "id": "startup_003",
+      "name": "AgriTech Pro",
+      "tagline": "Precision farming using IoT and satellite data",
+      "description": "AgriTech Pro helps farmers maximize yield and minimize resource waste through IoT sensors and satellite imagery analysis, reducing water usage by 40% and increasing crop yield by 25%.",
+      "stage": "Series B",
+      "industry": "AgTech",
+      "location": "São Paulo, Brazil",
+      "founded": "2020",
+      "teamSize": 45,
+      "match": "89",
+      "founders": [
+        {
+          "name": "Carlos Silva",
+          "role": "CEO & Founder",
+          "background": "Agricultural Engineer, Ex-Bayer",
+          "linkedin": "linkedin.com/in/carlossilva"
+        },
+        {
+          "name": "Maria Santos",
+          "role": "COO & Co-founder",
+          "background": "MBA Harvard, Ex-McKinsey",
+          "linkedin": "linkedin.com/in/mariasantos"
+        }
+      ],
+      "metrics": {
+        "mrr": "$450K",
+        "growth": "+25% MoM",
+        "customers": "3,200 farms",
+        "burn": "$280K/month"
+      },
+      "funding": {
+        "seeking": "$15M",
+        "raised": "$8M",
+        "valuation": "$80M pre-money"
+      },
+      "highlights": [
+        "3,200 farms across 5 countries",
+        "40% water usage reduction",
+        "25% yield improvement",
+        "Government partnership in Brazil"
+      ],
+      "pitch": "Feeding the world sustainably by helping farmers produce 25% more food with 40% less water through precision agriculture.",
+      "documents": {
+        "pitch_deck": "Available",
+        "financials": "Available",
+        "term_sheet": "Available"
+      }
     },
     {
+      "id": "startup_004",
       "name": "CloudLogic",
-      "description": "Series A • Cloud • Germany",
-      "match": "86"
+      "tagline": "Automated cloud cost optimization",
+      "description": "CloudLogic automatically optimizes cloud infrastructure costs for enterprises, reducing AWS/Azure spending by 30-50% through intelligent resource allocation and usage analysis.",
+      "stage": "Series A",
+      "industry": "Cloud / DevOps",
+      "location": "Berlin, Germany",
+      "founded": "2022",
+      "teamSize": 22,
+      "match": "86",
+      "founders": [
+        {
+          "name": "Hans Mueller",
+          "role": "CEO & Co-founder",
+          "background": "Ex-AWS Solutions Architect",
+          "linkedin": "linkedin.com/in/hansmueller"
+        },
+        {
+          "name": "Lisa Schmidt",
+          "role": "CTO & Co-founder",
+          "background": "Ex-Google Cloud, TU Munich",
+          "linkedin": "linkedin.com/in/lisaschmidt"
+        }
+      ],
+      "metrics": {
+        "mrr": "$220K",
+        "growth": "+40% MoM",
+        "customers": "85 enterprises",
+        "burn": "$150K/month"
+      },
+      "funding": {
+        "seeking": "$8M",
+        "raised": "$2.5M",
+        "valuation": "$35M pre-money"
+      },
+      "highlights": [
+        "Average 42% cost reduction",
+        "85 enterprise customers",
+        "Partnership with Microsoft Azure",
+        "$12M in customer savings generated"
+      ],
+      "pitch": "Enterprises waste $10B annually on cloud costs. We automatically optimize their infrastructure to save 30-50% without performance loss.",
+      "documents": {
+        "pitch_deck": "Available",
+        "financials": "Available",
+        "term_sheet": "Ready"
+      }
     },
     {
+      "id": "startup_005",
       "name": "SecureID",
-      "description": "Seed • CyberSecurity • UK",
-      "match": "84"
+      "tagline": "Passwordless authentication for enterprises",
+      "description": "SecureID provides enterprise-grade passwordless authentication using biometrics and hardware tokens, eliminating 95% of security breaches caused by weak passwords.",
+      "stage": "Seed",
+      "industry": "Cybersecurity",
+      "location": "London, UK",
+      "founded": "2023",
+      "teamSize": 18,
+      "match": "84",
+      "founders": [
+        {
+          "name": "James Patterson",
+          "role": "CEO & Co-founder",
+          "background": "Ex-Microsoft Security, Oxford CS",
+          "linkedin": "linkedin.com/in/jamespatterson"
+        },
+        {
+          "name": "Emma Thompson",
+          "role": "CPO & Co-founder",
+          "background": "Ex-Okta, Cambridge MBA",
+          "linkedin": "linkedin.com/in/emmathompson"
+        }
+      ],
+      "metrics": {
+        "mrr": "$95K",
+        "growth": "+45% MoM",
+        "customers": "32 enterprises",
+        "burn": "$110K/month"
+      },
+      "funding": {
+        "seeking": "$4M",
+        "raised": "$1M",
+        "valuation": "$12M pre-money"
+      },
+      "highlights": [
+        "SOC 2 Type II certified",
+        "Zero security breaches",
+        "95% reduction in helpdesk tickets",
+        "GDPR compliant"
+      ],
+      "pitch": "80% of breaches are caused by weak passwords. We eliminate passwords entirely with biometric authentication that's easier and more secure.",
+      "documents": {
+        "pitch_deck": "Available",
+        "financials": "Available",
+        "term_sheet": "Draft"
+      }
     },
     {
+      "id": "startup_006",
       "name": "QuantumSys",
-      "description": "Series A • DeepTech • USA",
-      "match": "81"
+      "tagline": "Quantum computing for drug discovery",
+      "description": "QuantumSys accelerates drug discovery by 10x using quantum computing algorithms to simulate molecular interactions, reducing time-to-market for new pharmaceuticals.",
+      "stage": "Series A",
+      "industry": "DeepTech / BioTech",
+      "location": "Boston, USA",
+      "founded": "2021",
+      "teamSize": 35,
+      "match": "81",
+      "founders": [
+        {
+          "name": "Dr. Robert Chang",
+          "role": "CEO & Co-founder",
+          "background": "PhD Physics MIT, Ex-IBM Quantum",
+          "linkedin": "linkedin.com/in/robertchang"
+        },
+        {
+          "name": "Dr. Amanda Lee",
+          "role": "CSO & Co-founder",
+          "background": "PhD Chemistry Harvard, Ex-Pfizer",
+          "linkedin": "linkedin.com/in/amandalee"
+        }
+      ],
+      "metrics": {
+        "mrr": "$180K",
+        "growth": "+30% MoM",
+        "customers": "8 pharma companies",
+        "burn": "$320K/month"
+      },
+      "funding": {
+        "seeking": "$12M",
+        "raised": "$5M",
+        "valuation": "$50M pre-money"
+      },
+      "highlights": [
+        "10x faster drug discovery",
+        "Partnerships with Pfizer, Novartis",
+        "2 drugs in clinical trials",
+        "Patent portfolio of 12 patents"
+      ],
+      "pitch": "Drug discovery takes 10 years and $2B. We're using quantum computing to reduce that to 1 year and $200M.",
+      "documents": {
+        "pitch_deck": "Available",
+        "financials": "Available",
+        "term_sheet": "Available"
+      }
     }
   ],
   "dealflowStages": [

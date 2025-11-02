@@ -15,6 +15,92 @@
       "runway": "10 mo"
     }
   },
+  "recommendedVCs": [
+    {
+      "id": "vc_001",
+      "name": "Sequoia Capital",
+      "logo": "🌲",
+      "matchScore": 92,
+      "investmentThesis": "AI/ML infrastructure for developers",
+      "checkSize": "$1M - $5M",
+      "stage": ["Seed", "Series A"],
+      "portfolioCompanies": ["GitHub", "Stripe", "Zoom"],
+      "reasoning": "Strong fit: AI/ML focus, seed stage investment, matches your product category",
+      "partnerName": "Sarah Chen",
+      "partnerEmail": "sarah@sequoia.com",
+      "readinessForThisVC": 88
+    },
+    {
+      "id": "vc_002",
+      "name": "Andreessen Horowitz",
+      "logo": "🅰️",
+      "matchScore": 87,
+      "investmentThesis": "Developer tools and infrastructure",
+      "checkSize": "$2M - $10M",
+      "stage": ["Seed", "Series A", "Series B"],
+      "portfolioCompanies": ["Databricks", "PlanetScale", "Replit"],
+      "reasoning": "Good fit: Developer tooling focus, strong technical background required",
+      "partnerName": "Martin Casado",
+      "partnerEmail": "martin@a16z.com",
+      "readinessForThisVC": 85
+    },
+    {
+      "id": "vc_003",
+      "name": "Accel Partners",
+      "logo": "⚡",
+      "matchScore": 84,
+      "investmentThesis": "B2B SaaS with strong product-market fit",
+      "checkSize": "$1M - $8M",
+      "stage": ["Seed", "Series A"],
+      "portfolioCompanies": ["Slack", "Atlassian", "UiPath"],
+      "reasoning": "Solid fit: B2B SaaS model, early traction, enterprise focus",
+      "partnerName": "Ping Li",
+      "partnerEmail": "ping@accel.com",
+      "readinessForThisVC": 82
+    },
+    {
+      "id": "vc_004",
+      "name": "Index Ventures",
+      "logo": "📊",
+      "matchScore": 79,
+      "investmentThesis": "DevOps and cloud infrastructure",
+      "checkSize": "$500K - $3M",
+      "stage": ["Pre-seed", "Seed"],
+      "portfolioCompanies": ["Figma", "Discord", "Notion"],
+      "reasoning": "Moderate fit: Cloud infrastructure angle, seed stage",
+      "partnerName": "Mike Volpi",
+      "partnerEmail": "mike@indexventures.com",
+      "readinessForThisVC": 75
+    },
+    {
+      "id": "vc_005",
+      "name": "Y Combinator",
+      "logo": "🧡",
+      "matchScore": 76,
+      "investmentThesis": "Early-stage startups across all sectors",
+      "checkSize": "$125K - $500K",
+      "stage": ["Pre-seed", "Seed"],
+      "portfolioCompanies": ["Airbnb", "Stripe", "Dropbox"],
+      "reasoning": "Good fit: Early stage focus, batch program benefits, strong network",
+      "partnerName": "YC Partners",
+      "partnerEmail": "apply@ycombinator.com",
+      "readinessForThisVC": 90
+    },
+    {
+      "id": "vc_006",
+      "name": "Benchmark Capital",
+      "logo": "🎯",
+      "matchScore": 73,
+      "investmentThesis": "Enterprise software with network effects",
+      "checkSize": "$2M - $12M",
+      "stage": ["Series A", "Series B"],
+      "portfolioCompanies": ["Uber", "Twitter", "Snapchat"],
+      "reasoning": "Potential fit: Enterprise angle, but may be early for Series A",
+      "partnerName": "Peter Fenton",
+      "partnerEmail": "peter@benchmark.com",
+      "readinessForThisVC": 68
+    }
+  ],
   "formSteps": [
     {
       "step": 1,
