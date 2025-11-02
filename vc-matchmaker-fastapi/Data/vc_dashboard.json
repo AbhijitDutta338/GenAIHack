@@ -1,0 +1,376 @@
+{
+  "keyMetrics": {
+    "fundsDeployed": {
+      "value": "₹285.0M",
+      "subtext": "5.6%"
+    },
+    "cashAvailable": {
+      "value": "₹215.0M",
+      "subtext": ""
+    },
+    "irr": {
+      "value": "22.4%",
+      "subtext": ""
+    },
+    "tvpiDpi": {
+      "value": "1.82",
+      "subtext": "DPI/LI"
+    }
+  },
+  "portfolioSummary": {
+    "invested": {
+      "value": "₹2.7M",
+      "label": "INVESTED"
+    },
+    "unrealized": {
+      "value": "₹0.8M",
+      "label": "UNREALIZED"
+    },
+    "grossIRR": {
+      "value": "28%",
+      "label": "GROSS IRR"
+    },
+    "tvpi": {
+      "value": "1.28",
+      "label": "TVPI"
+    }
+  },
+  "portfolioHoldings": [
+    {
+      "name": "FinTechX",
+      "stage": "Series A",
+      "sector": "FinTech",
+      "ownership": "12.0%",
+      "cost": "0.50",
+      "value": "0.76",
+      "moic": "1.52"
+    },
+    {
+      "name": "HealthAI",
+      "stage": "Seed",
+      "sector": "HealthTech",
+      "ownership": "15.0%",
+      "cost": "0.49",
+      "value": "0.65",
+      "moic": "1.32"
+    },
+    {
+      "name": "CloudEdge",
+      "stage": "Series A",
+      "sector": "Cloud",
+      "ownership": "8.0%",
+      "cost": "0.36",
+      "value": "0.32",
+      "moic": "0.90"
+    },
+    {
+      "name": "AgriTech",
+      "stage": "Series B",
+      "sector": "AgTech",
+      "ownership": "10.0%",
+      "cost": "0.18",
+      "value": "0.29",
+      "moic": "1.62"
+    },
+    {
+      "name": "SecureID",
+      "stage": "Seed",
+      "sector": "Cybersecurity",
+      "ownership": "9.0%",
+      "cost": "0.30",
+      "value": "0.29",
+      "moic": "0.97"
+    },
+    {
+      "name": "QuantumSys",
+      "stage": "Series B",
+      "sector": "DeepTech",
+      "ownership": "5.0%",
+      "cost": "0.30",
+      "value": "0.38",
+      "moic": "1.28"
+    },
+    {
+      "name": "EcoCarbon",
+      "stage": "Series A",
+      "sector": "ClimateTech",
+      "ownership": "11.0%",
+      "cost": "0.20",
+      "value": "0.26",
+      "moic": "1.30"
+    },
+    {
+      "name": "ShopLink",
+      "stage": "Seed",
+      "sector": "Marketplace",
+      "ownership": "13.0%",
+      "cost": "0.11",
+      "value": "0.14",
+      "moic": "1.32"
+    },
+    {
+      "name": "VectorAI",
+      "stage": "Series B",
+      "sector": "AI Infra",
+      "ownership": "7.0%",
+      "cost": "0.28",
+      "value": "0.38",
+      "moic": "1.35"
+    }
+  ],
+  "holdingsData": [
+    {
+      "name": "FINTECH",
+      "qty": 12005,
+      "avgCost": "₹41.30",
+      "price": "₹53.40",
+      "pnl": "₹250,400 (52.28%)",
+      "weight": "18.4%"
+    },
+    {
+      "name": "HEALTHAI",
+      "qty": 8500,
+      "avgCost": "₹55.50",
+      "price": "₹77.40",
+      "pnl": "₹185,650 (39.46%)",
+      "weight": "14.2%"
+    },
+    {
+      "name": "AGRITECH",
+      "qty": 6500,
+      "avgCost": "₹30.50",
+      "price": "₹48.60",
+      "pnl": "₹117,650 (59.34%)",
+      "weight": "11.3%"
+    },
+    {
+      "name": "VECTORAI",
+      "qty": 4500,
+      "avgCost": "₹70.20",
+      "price": "₹94.30",
+      "pnl": "₹108,450 (34.33%)",
+      "weight": "10.4%"
+    },
+    {
+      "name": "QUANTUMSYS",
+      "qty": 2500,
+      "avgCost": "₹150.50",
+      "price": "₹192.00",
+      "pnl": "₹103,750 (27.57%)",
+      "weight": "8.9%"
+    },
+    {
+      "name": "ECOCARBON",
+      "qty": 7500,
+      "avgCost": "₹28.50",
+      "price": "₹35.50",
+      "pnl": "₹52,500 (24.56%)",
+      "weight": "10.4%"
+    },
+    {
+      "name": "SHOPLINK",
+      "qty": 9500,
+      "avgCost": "₹12.30",
+      "price": "₹15.80",
+      "pnl": "₹33,250 (28.45%)",
+      "weight": "9.7%"
+    },
+    {
+      "name": "SECURED",
+      "qty": 5500,
+      "avgCost": "₹65.00",
+      "price": "₹58.40",
+      "pnl": "₹-36,300 (-10.15%)",
+      "weight": "7.8%"
+    },
+    {
+      "name": "CLOUDSOG",
+      "qty": 15500,
+      "avgCost": "₹22.30",
+      "price": "₹20.10",
+      "pnl": "₹-34,100 (-9.87%)",
+      "weight": "8.1%"
+    }
+  ],
+  "weightedModels": [
+    {
+      "symbol": "FINTECH",
+      "value": 15
+    },
+    {
+      "symbol": "HEALTHAI",
+      "value": 25
+    },
+    {
+      "symbol": "AGRITECH",
+      "value": 20
+    },
+    {
+      "symbol": "EDTECH",
+      "value": 18
+    },
+    {
+      "symbol": "CLEANTECH",
+      "value": 22
+    }
+  ],
+  "scoreGauges": [
+    {
+      "name": "BERKIUS",
+      "score": 85
+    },
+    {
+      "name": "BILLATYNE",
+      "score": 84
+    },
+    {
+      "name": "RISE",
+      "score": 80
+    },
+    {
+      "name": "VECTORHQ",
+      "score": 69
+    }
+  ],
+  "recentAlerts": [
+    "FINTECH startup raised Series A funding",
+    "New AI/ML startup in pipeline",
+    "Q3 portfolio performance review due",
+    "AGRITECH showing 25% growth",
+    "Due diligence call scheduled for tomorrow"
+  ],
+  "startupsToWatch": [
+    {
+      "name": "FinTechX",
+      "description": "Series A • FinTech • India",
+      "match": "96"
+    },
+    {
+      "name": "HealthAI",
+      "description": "Seed • Health Tech • USA",
+      "match": "94"
+    },
+    {
+      "name": "AgriTech",
+      "description": "Series B • AgTech • Brazil",
+      "match": "89"
+    },
+    {
+      "name": "CloudLogic",
+      "description": "Series A • Cloud • Germany",
+      "match": "86"
+    },
+    {
+      "name": "SecureID",
+      "description": "Seed • CyberSecurity • UK",
+      "match": "84"
+    },
+    {
+      "name": "QuantumSys",
+      "description": "Series A • DeepTech • USA",
+      "match": "81"
+    }
+  ],
+  "dealflowStages": [
+    {
+      "name": "SOURCED",
+      "count": 2,
+      "deals": [
+        {
+          "id": "s8",
+          "title": "Referral from accelerator",
+          "fit": 6,
+          "team": 7,
+          "market": 6
+        },
+        {
+          "id": "s7",
+          "title": "Impact LP interest",
+          "fit": 5,
+          "team": 6,
+          "market": 7
+        }
+      ]
+    },
+    {
+      "name": "SCREENING",
+      "count": 2,
+      "deals": [
+        {
+          "id": "s2",
+          "title": "Awaiting pilot expansion metrics",
+          "fit": 6,
+          "team": 7,
+          "market": 8
+        },
+        {
+          "id": "s5",
+          "title": "Security audit scheduled",
+          "fit": 7,
+          "team": 7,
+          "market": 7
+        }
+      ]
+    },
+    {
+      "name": "MEETING",
+      "count": 2,
+      "deals": [
+        {
+          "id": "s1",
+          "title": "Partner meeting next week",
+          "fit": 8,
+          "team": 8,
+          "market": 8
+        },
+        {
+          "id": "s4",
+          "title": "Need edge latency benchmarks",
+          "fit": 6,
+          "team": 6,
+          "market": 6
+        }
+      ]
+    },
+    {
+      "name": "TERM SHEET",
+      "count": 1,
+      "deals": [
+        {
+          "id": "s3",
+          "title": "Negotiating pro rata rights",
+          "fit": 8,
+          "team": 8,
+          "market": 9
+        }
+      ]
+    },
+    {
+      "name": "INVESTED",
+      "count": 2,
+      "deals": [
+        {
+          "id": "s6",
+          "title": "Board seat secured",
+          "fit": 9,
+          "team": 9,
+          "market": 9
+        },
+        {
+          "id": "s9",
+          "title": "Observer rights only",
+          "fit": 8,
+          "team": 8,
+          "market": 9
+        }
+      ]
+    }
+  ],
+  "defaultInvestmentThesis": "Focus on AI infra, fintech infrastructure and climate MRV platforms across Seed to Series B.",
+  "defaultModelWeights": {
+    "berkus": 0.25,
+    "billatyne": 0.2,
+    "risk": 0.15,
+    "vcmethod": 0.4
+  }
+}

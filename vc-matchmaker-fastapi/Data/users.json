@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "username": "founder",
+      "password": "founder",
+      "email": "founder@vcmatchmaker.com",
+      "displayName": "Startup Founder",
+      "userType": "founder",
+      "role": "founder",
+      "uid": "demo_founder_uid",
+      "profile": {
+        "company": "TechStartup Inc.",
+        "industry": "SaaS",
+        "stage": "Series A",
+        "location": "San Francisco, CA",
+        "fundingGoal": "$5M",
+        "description": "AI-powered productivity platform for remote teams"
+      }
+    },
+    {
+      "username": "admin",
+      "password": "auth",
+      "email": "admin@vcmatchmaker.com",
+      "displayName": "VC Admin",
+      "userType": "vc",
+      "role": "vc",
+      "uid": "demo_vc_uid",
+      "profile": {
+        "firm": "Innovation Ventures",
+        "focusStage": "Series A-B",
+        "ticketSize": "$1M - $10M",
+        "industries": ["SaaS", "FinTech", "HealthTech"],
+        "location": "Palo Alto, CA",
+        "aum": "$250M",
+        "portfolio": 45
+      }
+    }
+  ]
+}

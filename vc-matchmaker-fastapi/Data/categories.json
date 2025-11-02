@@ -1,0 +1,36 @@
+{
+  "industries": [
+    "Fintech",
+    "Healthcare",
+    "E-commerce",
+    "SaaS",
+    "AI/ML",
+    "Blockchain",
+    "EdTech",
+    "PropTech",
+    "CleanTech",
+    "BioTech",
+    "Consumer Apps",
+    "Enterprise Software",
+    "Cybersecurity",
+    "AgriTech",
+    "DeepTech"
+  ],
+  "stages": [
+    "Idea",
+    "Pre-seed",
+    "Seed",
+    "Series A",
+    "Series B",
+    "Series C+",
+    "Growth Stage"
+  ],
+  "regions": [
+    "North America",
+    "Europe",
+    "Asia Pacific",
+    "Latin America",
+    "Middle East",
+    "Africa"
+  ]
+}

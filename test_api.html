@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Test</title>
+</head>
+<body>
+    <h1>API Connection Test</h1>
+    <button onclick="testHealth()">Test Health Endpoint</button>
+    <button onclick="testLogin()">Test Login</button>
+    <div id="result" style="margin-top: 20px; padding: 10px; border: 1px solid #ccc;"></div>
+
+    <script>
+        const API_URL = 'http://localhost:8000';
+
+        async function testHealth() {
+            const resultDiv = document.getElementById('result');
+            resultDiv.innerHTML = 'Testing health endpoint...';
+            
+            try {
+                const response = await fetch(`${API_URL}/health`);
+                const data = await response.json();
+                resultDiv.innerHTML = `<strong>Success!</strong><br><pre>${JSON.stringify(data, null, 2)}</pre>`;
+                resultDiv.style.backgroundColor = '#d4edda';
+            } catch (error) {
+                resultDiv.innerHTML = `<strong>Error:</strong> ${error.message}`;
+                resultDiv.style.backgroundColor = '#f8d7da';
+            }
+        }
+
+        async function testLogin() {
+            const resultDiv = document.getElementById('result');
+            resultDiv.innerHTML = 'Testing login endpoint...';
+            
+            try {
+                const response = await fetch(`${API_URL}/api/auth/login`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        username: 'founder',
+                        password: 'founder'
+                    })
+                });
+                
+                const data = await response.json();
+                resultDiv.innerHTML = `<strong>Success!</strong><br><pre>${JSON.stringify(data, null, 2)}</pre>`;
+                resultDiv.style.backgroundColor = '#d4edda';
+            } catch (error) {
+                resultDiv.innerHTML = `<strong>Error:</strong> ${error.message}`;
+                resultDiv.style.backgroundColor = '#f8d7da';
+            }
+        }
+    </script>
+</body>
+</html>
